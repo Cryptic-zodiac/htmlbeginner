@@ -1,0 +1,48 @@
+        body{
+            background-color: ivory;
+        }
+
+        hr{
+            border-style: none;
+            background-color:f6f5f5;
+            border-color: grey;
+            border-top-style: dotted;
+            border-width: 5px;
+            width: 5%;
+        }
+
+        h1{
+            font-family: 'LEMON MILK';
+            color: #66bfbf;
+        }
+
+        h3{
+            font-family: 'LEMON MILK';
+            color: #66bfbf;
+        }
+
+        em{
+            font-family: Cambria;
+        }
+
+        p{
+            font-family: Cambria;
+        }
+
+        th{
+            font-size: 130%;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: left;
+        }
+
+        td{ 
+            font-size: 110%;
+            font-family: Cambria;
+        }
+        
+        ul{
+            font-size: 100%;
+            font-family: 'LEMON MILK';
+          }
+
+        
